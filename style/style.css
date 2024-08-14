@@ -267,12 +267,48 @@ align-items: center;
     margin-left: 40px;
     
 }
-.team-img img{
+
+ .trainer-1{
+    background-image: url(../images/trainer1.png);
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+ }
+ .trainer-2{
+    background-image: url(../images/trainer2.png);
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+ }
+ .trainer-3{
+    background-image: url(../images/trainer3.png);
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+ }
+ .trainer-4{
+    background-image: url(../images/trainer4.png);
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+ }
+ .trainer-5{
+    background-image: url(../images/trainer5.png);
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+ }
+ .trainer-6{
+    background-image: url(../images/trainer6.png);
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+ }
+ .two{
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 800;
+ }
+.team-img div{
    width: 300px;
    height: 220px;
    border-radius: 15px;
-}
+   background-size:cover
 
+}
 
 /* shadow image style */
 .img-content{
